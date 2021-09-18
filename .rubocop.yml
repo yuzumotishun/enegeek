@@ -10,3 +10,4 @@ inherit_from:
 AllCops:
   TargetRubyVersion: 2.5.9
   TargetRailsVersion: 5.2.2
+  NewCops: enable
